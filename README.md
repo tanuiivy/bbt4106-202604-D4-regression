@@ -1,8 +1,5 @@
 # Group 4D — Predicting Annual Farm Income
 
-**Course:** BBT4106 — Business Intelligence I
-
-**Assignment:** Lab on Regression and Classification
 
 **Dataset:** `farm_annual_income.csv`
 
