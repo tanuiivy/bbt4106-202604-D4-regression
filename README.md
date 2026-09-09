@@ -1,16 +1,20 @@
-# Group D4 — Predicting Annual Farm Income
+# Group 4D — Predicting Annual Farm Income
 
 **Course:** BBT4106 — Business Intelligence I
+
 **Assignment:** Lab on Regression and Classification
+
 **Dataset:** `farm_annual_income.csv`
+
 **Context:** Smallholder and commercial farm operations across counties
+
 **Target variable:** `annual_farm_income_kes`
 
 ---
 
 ## Overview
 
-This repository contains Group D's regression analysis notebook, applying the
+This repository contains Group 4D's regression analysis notebook, applying the
 full modeling pipeline covered in class — from dependency installation through
 model persistence — to our assigned farm income dataset. All decisions
 (missingness handling, feature selection, transforms, etc.) are made
