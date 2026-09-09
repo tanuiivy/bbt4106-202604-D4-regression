@@ -1,4 +1,4 @@
-# Group 4D — Predicting Annual Farm Income
+# Group 4D | Predicting Annual Farm Income
 
 
 **Dataset:** `farm_annual_income.csv`
