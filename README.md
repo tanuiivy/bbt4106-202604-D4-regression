@@ -1,4 +1,4 @@
-# Group D — Predicting Annual Farm Income
+# Group D4 — Predicting Annual Farm Income
 
 **Course:** BBT4106 — Business Intelligence I
 **Assignment:** Lab on Regression and Classification
@@ -28,14 +28,6 @@ in-class demonstration notebook.
 | TBD  | TBD       | TBD            |
 
 *(Table to be filled in once section assignments are finalized via team poll.)*
-
-## Repository Structure
-
-.
-├── README.md
-├── .gitignore
-├── requirements.txt
-└── bbt4106_202604_D4_d_regression.ipynb
 
 
 ## Notebook Sections
